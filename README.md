@@ -1,1 +1,1 @@
-My first readme
+My first readme and adding the uptodat to my github repo
