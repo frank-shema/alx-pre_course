@@ -1,0 +1,2 @@
+cd alx-pre-course
+echo "git pull origin main" > up_to_date
